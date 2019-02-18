@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stock_API</string>
+
+    <string name="welcomeTxt">Welcome to the Stock App  to view a company\s stock information,
+        please enter the key word "goog" for Google, "aapl" for Apple and "msft" for Microsoft
+        accordingly. Then tap the "Search" Button, thank you.</string>
+
+    <string name="tvStKey">Stock Key</string>
+
+    <string name="btnSearch">Search</string>
+
+</resources>
